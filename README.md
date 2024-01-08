@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/D5616AQEAraaVnLLZEQ/profile-displaybackgroundimage-shrink_350_1400/0/1678721958227?e=1700697600&v=beta&t=GcbbOlBEEI7zii4lyGf97t45aY4RaDDA-g3qPNCINjo](https://media.licdn.com/dms/image/D5616AQEAraaVnLLZEQ/profile-displaybackgroundimage-shrink_350_1400/0/1678721959115?e=1710374400&v=beta&t=uJx5WAbme1FeTpxBsr_c657HRpktIAs66KQBu78oqSc))
+
 <h1 align="center">Hi 👋, I'm Enes Sevga</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
