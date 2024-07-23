@@ -6,19 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/bytenblade" target="blank"><img src="https://img.shields.io/twitter/follow/bytenblade?logo=twitter&style=for-the-badge" alt="bytenblade" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce with Laravel**
-
-- 🌱 I’m currently learning **Laravel,Next JS,Python**
-
-- 👨‍💻 All of my projects are available at [Loading...](Loading...)
-
-- 📝 I regularly write articles on [bytenblade.com](bytenblade.com)
-
-- 💬 Ask me about **Laravel, PHP, MySQL and HTML5**
-
-- 📫 How to reach me **bytenblade@gmail.com**
-
-- 📄 Know about my experiences [bytenblade.com](bytenblade.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
