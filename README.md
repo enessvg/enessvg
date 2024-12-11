@@ -1,4 +1,7 @@
+<img width="100%" src="https://github.com/enessvg/enessvg/blob/main/enessvg.gif" alt="Enes SVG 😎">
+
 <h1 align="center">Hi 👋, I'm Enes Sevga</h1>
+
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessvg&label=Profile%20views&color=0e75b6&style=flat"
