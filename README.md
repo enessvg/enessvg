@@ -66,5 +66,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=enessvg&show_icons=true&locale=en&theme=dracula"
         alt="enessvg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enessvg&" alt="enessvg" /></p>
 </div>
