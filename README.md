@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/enessvg/enessvg/blob/main/enessvg.gif" alt="Enes SVG 😎">
+<img style="border-radius:25px; border: 1px solid rgba( 255, 255, 255, 0.18 ); box-shadow: 0 0px 82px 0 rgb(135 31 31 / 37%)" width="100%" src="https://github.com/enessvg/enessvg/blob/main/enessvg.gif" alt="Enes SVG 😎">
 
 <h1 align="center">Hi 👋, I'm Enes Sevga</h1>
 
