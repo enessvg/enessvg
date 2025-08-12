@@ -54,7 +54,22 @@
             height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a> </p>
-
+<h3 align="center">My Personal Projects</h3>
+<p align="center"> 
+        <a href="https://enessvg.dev" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
+                 <img src="https://api.enessvg.codes/storage/portfolio/abouts/01JZ3GXG8QAQJZG64J32C0PYSQ.png" width="100" height="100">
+        </a>
+        <a href="https://croplink.enessvg.codes" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
+                 <img src="https://api.enessvg.codes/storage/portfolio/projects/01K2FYCVKYYYJHPSPS3VV94DR7.png" width="100" height="100">
+        </a>
+        <a href="https://enessvg.codes" style="text-decoration: none;" target="_blank" rel="noreferrer">
+                <img src="https://api.enessvg.codes/storage/01JQ3VXGY2G8NAC9NJ1744HVHD.png" width="100" height="100">
+        </a>
+        <a href="#" style="text-decoration: none;" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/enessvg/enessvg/refs/heads/main/cuzdanimlogo.png" width="100" height="100">
+        </a>
+        
+</p>
 <div align="center">
         <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=enessvg&show_icons=true&locale=en&layout=compact&theme=dracula"
