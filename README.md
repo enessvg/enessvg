@@ -1,82 +1,75 @@
-<img style="border-radius:25px; border: 1px solid rgba( 255, 255, 255, 0.18 ); box-shadow: 0 0px 82px 0 rgb(135 31 31 / 37%)" width="100%" src="https://github.com/enessvg/enessvg/blob/main/enessvg.gif" alt="Enes SVG 😎">
+# Hi, I'm Enes 👋
 
-<h1 align="center">Hi 👋, I'm Enes Sevga</h1>
+📍 Istanbul, Turkey  
+💻 Backend-focused developer building web apps and tools.
 
-<h3 align="center">A passionate developer from Turkey</h3>
+---
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessvg&label=Profile%20views&color=0e75b6&style=flat"
-        alt="enessvg" /> </p> -->
+## About Me
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<!--     <a href="https://twitter.com/bytenblade" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="bytenblade" height="30" width="40" /></a> -->
-    <a href="https://linkedin.com/in/enes-svg" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="enes svg" height="30" width="40" /></a>
-    <a href="https://instagram.com/enes.ssvg" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="enes.ssvg" height="30" width="40" /></a>
-</p>
+- I mainly work with **PHP, Laravel, Livewire, Filament and JavaScript**
+- I build admin panels, APIs, e-commerce systems and automation tools
+- Interested in **Docker, DevOps, scalable backend systems and AI-assisted development**
+---
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a
-            href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40"
-                height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-                <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a>  <a
-        href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" alt="photoshop"
-            width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a> </p>
-<h3 align="center">My Personal Projects</h3>
-<p align="center"> 
-        <a href="https://enessvg.dev" target="_blank" style="text-decoration: none;" rel="noreferrer"> 
-                 <img src="https://api.enessvg.codes/storage/portfolio/abouts/01JZ3GXG8QAQJZG64J32C0PYSQ.png" width="100" height="100">
-        </a>
-        <a href="https://croplink.enessvg.codes" style="text-decoration: none;" target="_blank" rel="noreferrer"> 
-                 <img src="https://api.enessvg.codes/storage/portfolio/projects/01K2FYCVKYYYJHPSPS3VV94DR7.png" width="100" height="100">
-        </a>
-        <a href="https://enessvg.codes" style="text-decoration: none;" target="_blank" rel="noreferrer">
-                <img src="https://api.enessvg.codes/storage/01JQ3VXGY2G8NAC9NJ1744HVHD.png" width="100" height="100">
-        </a>
-        <a href="#" style="text-decoration: none;" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/enessvg/enessvg/refs/heads/main/cuzdanimlogo.png" width="100" height="100">
-        </a>
-        
-</p>
-<div align="center">
-        <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=enessvg&show_icons=true&locale=en&layout=compact&theme=dracula"
-        alt="enessvg" /></p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=enessvg&show_icons=true&locale=en&theme=dracula"
-        alt="enessvg" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enessvg&theme=dracula"
-        alt="enessvg" /></p>
-</div>
+### Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Database & Cache
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Current Projects
+
+- 🔗 **[CropLink](https://croplink.enessvg.codes)** — URL shortener
+- 🔗 **[Mixly](https://mixly.enessvg.codes)** — Collection of useful web tools (background remover, YouTube MP3 converter and more)
+- 📝 **[Blog](https://blog.enessvg.codes)** — Personal blog where I share development notes, experiments and learnings
+- 🤖 **AI Chat App** — ChatGPT-like application built with Laravel, using API-based LLM integration
+- 🛠️ Small tools and experiments around automation, media processing and productivity
+
+---
+
+## Open Source Packages
+
+- 📦 **[laravel-telegram-deployer](https://github.com/enessvg/laravel-telegram-deployer)** — Deploy your Laravel apps via Telegram bot
+- 📦 **[laravel-paynet](https://github.com/enessvg/laravel-paynet)** — Paynet payment gateway integration for Laravel
+
+---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/enessvg)
+
+---
+
+## Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enes.ssvg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-svg)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/enessvg)
