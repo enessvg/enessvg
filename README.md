@@ -19,7 +19,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,24 +46,19 @@
 
 ## Current Projects
 
-- 🔗 **[CropLink](https://croplink.enessvg.codes)** — URL shortener
-- 🔗 **[Mixly](https://mixly.enessvg.codes)** — Collection of useful web tools (background remover, YouTube MP3 converter and more)
-- 📝 **[Blog](https://blog.enessvg.codes)** — Personal blog where I share development notes, experiments and learnings
+- 🔗 **[CropLink](https://croplink.enessvg.tech)** — URL shortener
+- 🔗 **[Mixly](https://blog.enessvg.tech/posts/mixly)** — Collection of useful web tools (background remover, YouTube MP3 converter and more)
+- 📝 **[Blog](https://blog.enessvg.tech)** — Personal blog where I share development notes, experiments and learnings
 - 🤖 **AI Chat App** — ChatGPT-like application built with Laravel, using API-based LLM integration
 - 🛠️ Small tools and experiments around automation, media processing and productivity
 
 ---
 
-## Open Source Packages
+## Open Source Projects
 
 - 📦 **[laravel-telegram-deployer](https://github.com/enessvg/laravel-telegram-deployer)** — Deploy your Laravel apps via Telegram bot
 - 📦 **[laravel-paynet](https://github.com/enessvg/laravel-paynet)** — Paynet payment gateway integration for Laravel
-
----
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/enessvg)
+- 🧩 **[json-formatter](https://github.com/enessvg/json-formatter)** — Enhanced fork of an open-source browser extension for formatting and viewing JSON
 
 ---
 
