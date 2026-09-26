@@ -46,8 +46,8 @@
 
 ## Current Projects
 
-- 🔗 **[CropLink](https://croplink.enessvg.tech)** — URL shortener
-- 🔗 **[Mixly](https://blog.enessvg.tech/posts/mixly)** — Collection of useful web tools (background remover, YouTube MP3 converter and more)
+- 🔗 **[TRMX](https://trmx.enessvg.tech)** — URL shortener with authentication, expiration and click tracking
+- 🧰 **[Mixly](https://blog.enessvg.tech/posts/mixly)** — Collection of useful web tools (background remover, YouTube MP3 converter and more)
 - 📝 **[Blog](https://blog.enessvg.tech)** — Personal blog where I share development notes, experiments and learnings
 - 🤖 **AI Chat App** — ChatGPT-like application built with Laravel, using API-based LLM integration
 - 🛠️ Small tools and experiments around automation, media processing and productivity
